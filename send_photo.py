@@ -1,4 +1,4 @@
-SENDP.PY
+#SENDP.PY
 
 from twx.botapi import TelegramBot, ReplyKeyboardMarkup
 
